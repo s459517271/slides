@@ -24,7 +24,7 @@
 从 [PROMPTS.md](PROMPTS.md) 复制任意风格
 
 ### Step 2: Customize
-替换占位符为你的内容
+根据需要修改文字内容
 
 ### Step 3: Generate
 粘贴到 **nanobanana2** 生成!
@@ -131,14 +131,12 @@
 ```
 Retro pop art style PPT slide, 1970s magazine aesthetic, flat design with thick black outlines,
 cream beige background,
-Title: What is Y Combinator,
-Subtitle: Startup Accelerator,
-Stats: 2005, 4000+ companies, $600B valuation,
+bold title text, subtitle below, key statistics displayed as cards,
 Salmon pink, sky blue, mustard yellow, mint green accents,
 Geometric decorations, Bold typography, Professional presentation, 16:9
 ```
 
-### Just paste this into nanobanana2!
+### 复制后根据需要修改文字，粘贴到 nanobanana2 生成!
 
 ---
 
