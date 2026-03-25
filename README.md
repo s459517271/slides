@@ -223,8 +223,7 @@ slides/
 ## Links
 
 - **GitHub**: https://github.com/AAAAAAAJ/slides
-- **302.ai**: https://302.ai/
-- **API Docs**: https://doc.302.ai/
+- **APImart**: https://apimart.ai/
 
 ---
 
